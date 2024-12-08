@@ -1,5 +1,12 @@
 # **Proyek Akhir PSD - RSA-Encryptor pada VHDL**
 
+Oleh : 
+```
+Maharaka Fadhilah 2306225520
+R. Aisha Syauqi Ramadhani 2306250554
+Tri Yoga Arsyad 2306161920
+```
+
 ## **Latar Belakang**
 Di era digital saat ini, keamanan informasi sangat penting. Banyak data pribadi dan sensitif yang dikirimkan melalui jaringan komunikasi, seperti pesan teks, email, dan berbagai jenis file. Oleh karena itu, perlindungan data ini menjadi kebutuhan yang mendesak.
 
